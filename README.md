@@ -13,17 +13,17 @@ To develop a machine learning model that can predict the presence of heart disea
 **Size:** 70000 rows x 16 columns
 <br>
 ## Tech Stack
-1.Language - Python
-2.Environment - Jupyter Notebook
-3.Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-4.ML Algorithms - Logistic Regression, K Nearest Neighbors, Decision Tree and Support Vector Machine 
+1.Language - Python\
+2.Environment - Jupyter Notebook\
+3.Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn\
+4.ML Algorithms - Logistic Regression, K Nearest Neighbors, Decision Tree and Support Vector Machine\
 <br>
 ## Methodology
-- Data Cleaning — handled missing values, corrected data types(if any)
+- Data Cleaning - handled missing values, corrected data types(if any)
 - Exploratory Data Analysis (EDA) with visualizations and summary statistics
-- Data Preprocessing — encoding categorical variables, Feature engineering
+- Data Preprocessing -  encoding categorical variables, Feature engineering
 - Feature Scaling
-- Model development — compared Logistic Regression, K Nearest Neighbors, Decision Tree and Support Vector Machine
+- Model development - compared Logistic Regression, K Nearest Neighbors, Decision Tree and Support Vector Machine
 - Evaluation - assessed the model using Accuracy, Precision, Recall, F1-Score
 
 
